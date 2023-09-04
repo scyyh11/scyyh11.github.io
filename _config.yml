@@ -8,7 +8,7 @@ middle_name:
 last_name: Huang
 email:  scyyh11@nottingham.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A Computer Science Student @ Uni of Nottingham, Deep Learning Enthusiast
+  Greetings from Yizhan Huang, I'm a Computer Science Student @ Uni of Nottingham and a Deep Learning Enthusiast.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
